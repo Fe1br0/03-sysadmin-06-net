@@ -30,3 +30,15 @@
 
 `Наибольшая задержка на строке 7`
 ![image](https://user-images.githubusercontent.com/106814458/178527885-5c7fcc4e-65a4-4a9b-a0be-865c2830c59e.png)
+
+7. Какие DNS сервера отвечают за доменное имя dns.google? Какие A записи? воспользуйтесь утилитой dig
+
+![image](https://user-images.githubusercontent.com/106814458/178576959-f556db43-4d7e-4529-86bd-d6b52cd19796.png)
+
+![image](https://user-images.githubusercontent.com/106814458/178577012-6943434e-c050-42e4-ba5c-51a55e0f0fc7.png)
+
+8. Проверьте PTR записи для IP адресов из задания 7. Какое доменное имя привязано к IP? воспользуйтесь утилитой dig
+
+![image](https://user-images.githubusercontent.com/106814458/178577289-7f8a571b-5af8-4488-b00c-c6da2597c6b8.png)
+
+
